@@ -1,10 +1,10 @@
 
-function profile() {
+function Profile() {
   return (
     <div>
-      
+      <h1>Profile</h1>
     </div>
   )
 }
 
-export default profile
+export default Profile
